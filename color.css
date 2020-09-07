@@ -5,10 +5,10 @@ body,html{
   height: 100%;
   margin: 0;
 }
-  body{
-        background:url(https://images.unsplash.com/photo-1595831917451-59e92d2f1479?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 100%;
-	background-position:center;
+body{
+background:url(https://images.unsplash.com/photo-1595831917451-59e92d2f1479?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+background-position:center;
   }
